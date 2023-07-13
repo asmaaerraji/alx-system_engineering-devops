@@ -1,0 +1,2 @@
+#!/bin/bash 
+printf ¨%.2f" $NUM | SORT 
